@@ -1,0 +1,41 @@
+序
+大家好，我是旋火。之前我在视频中放过一些弹幕问题，这期视频我们就来一起简单说说这些问题的答案吧。
+
+2021年中美dv谁多谁少
+我们先来看看《2021年世界各国航天发射数据排名》这个视频吧，这个问题是问2021年中美dv谁多谁少，其实很简单，这里的dv只是根据载荷所在轨道计算的理想dv，并非火箭实际消耗的dv，那么这个概念更类似于逃逸速度，即环绕地球的载荷的dv是不超过第二宇宙速度11.2km/s[1][2]的，同时又是高于第一宇宙速度7.9km/s[3]的。其中，地球同步转移轨道(GTO)的载荷的dv大概在10km/s[4]，不会比近地轨道载荷的dv多很多，只多20%左右。首先，2021年数量最多的任务是LEO任务，其次是GTO任务，无论中美，达到或超过第二宇宙速度的任务屈指可数，也就意味着无论中美，平均每次任务的dv是差不多的。其次，dv是一个和载荷质量无关的量，所以不管你是15.6吨还是0.1吨，只要预期轨道高度相同，dv就一样的。那么定性地来看，就是谁发射次数多，谁的dv总量就越多，那么自然就是中国的2021年dv总量最多了。至于dv的精确计算，留给以后的视频再讲吧。
+
+2022年2月卡角成功了几发
+接下来是2月发射记录这个视频，专门问了下这个月卡角的成功发射次数，选项只有3和2，那么很简单了[5]，一般如果问这种问题的话，肯定是选少的那一个了，不然也不至于问，直接选多的就完了嘛。当然了，如果要分析一下这个月也行。正常情况下，每月光卡角太空军基地SLC-40工位都至少有两次发射[6]，但是这个月却只有一发，而同在卡角的肯尼迪LC-39A工位也刚好只有一发，这样就是两发。而这个月并没有其他在卡角有发射场发射的火箭……不对，只是ULA没有发射，但是Astra发射了啊[7]……当然，是失败的一发，所以这个月在卡角只有2次成功的发射了。
+
+类似的反直觉问题也发生在3月和4月上面。我没有仔细研究SpaceX 3月发射的安排过程，或许NASASpaceflight论坛发射贴里会提到，那么我也不好更细致地解释为什么3月份只有3发没有4发，就先略过了。不过从这个月的安排可以看出就算没有客户订单发射，SpaceX也不一定能按照老马以前画的一周一发的饼来打Starlink[9]。4月也是一样[10]，虽然这个月有足足6发猎鹰9号发射，但是其中4发都是给客户的订单发射，只有2发是Starlink发射。
+
+不过5月这个就不算反直觉了[10]，如果简单归纳了前几个月SpaceX发射的规律，就会发现LC-39A和SLC-40的发射频率基本都在2发每月，而范登堡的发射频率在1发每月。既然5月SpaceX的总发射数量是5发，那么估计就是2+2+1的组合，也就是LC-39A发射了两发——所以这个问题错的比例也不高。
+
+顶石号的月球转移轨道是哪种
+再来看看6月发射记录吧，这期我不想再搞什么反直觉问题了，就问个可能很多人不知道但其实比较简单的问题，即顶石号采取的月球转移轨道的名字。有两个选项，一个是霍曼转移，一个是弹道转移，看到这里如果运用反直觉的思路[11]，就应该选弹道转移了——当然这是一期解析视频，不会这么快就结束了。这里的发射卡片已经给出了顶石号任务的初始轨道，是一个类似于詹姆斯·韦伯太空望远镜的初始轨道，远地点非常高，接近地球的希尔球半径，想象得出它不是去月球的霍曼转移，因为去月球的霍曼转移轨道，其远地点会在月球轨道的高度附近，而不会差异这么大。
+
+至于为什么顶石号会采用这种转移轨道[12][13][14]，因为这样更节省燃料[15]，对于顶石号这样一颗只有25千克质量的立方星来说，它的推进系统一般非常简单，不足以支撑其进行较高dv的机动。另一方面，弹道转移也不要求时间窗口很窄的点火机动，因此其任务冗余度也较高，但代价是这种转移非常慢，传统的地月霍曼转移轨道只需3天左右，对于顶石号这种特定的情况来说，差不多需要4个月才能进入绕月轨道，中间需要多次月球引力助推。而弹道转移的名字来源于这种轨道在理想情况下[15]，是一种在发射后不需要任何dv修正即可入轨的弹道飞行。
+
+总结一下，绝大多数弹幕问题只要把正确答案放到第二个就能提高错误比例了，不过现在既然这么说了，下次说不定就会反套路一下了，还是说反套路也是套路的一部分呢？
+
+本期视频到这里就结束了，感谢大家观看，下次问答解析应该会做一下航天周报的部分。
+
+音乐来源
+[1] Stevia Sphere. Stevia Sphere, Live @ VAPORSPACE CHANNEL SURF (October 16, 2020). https://youtu.be/N0Bdmfl-JSg
+
+文案引用与视频素材来源
+[1] Wikipedia. Escape velocity. https://en.wikipedia.org/wiki/Escape_velocity#List_of_escape_velocities
+[2] United Launch Alliance. Atlas V USSF-12 Launch Highlights. https://youtu.be/x3Pwe1O6Dh8
+[3] Wikipedia. Orbital speed. https://en.wikipedia.org/wiki/Orbital_speed#Tangential_velocities_at_altitude
+[4] Wikipedia. Delta-v budget. https://en.wikipedia.org/wiki/Delta-v_budget#Budget
+[5] SpaceX. NROL-87. https://youtu.be/bVk8XyjhTKo
+[6] Wikipedia. List of Falcon 9 and Falcon Heavy launches. https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches#2022
+[7] NASASpaceflight. Astra Launches NASA's ELaNa 41 Mission. https://youtu.be/8jlQmW7mnYM
+[8] SpaceX. Starlink Mission. https://youtu.be/ypb2sDdUkRo
+[9] Elon Musk. Falcon will launch about once a week on average in 2022. https://twitter.com/elonmusk/status/1489351220628230147
+[10] Wikipedia. List of spaceflight launches in January–June 2022. https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_January%E2%80%93June_2022
+[11] Rocket Lab. CAPSTONE Launch 06/28/2022. https://youtu.be/HptHSdDYHrU
+[12] Wikipedia. CAPSTONE. https://en.wikipedia.org/wiki/CAPSTONE
+[13] Phoenix7777. Animation of CAPSTONE around the Earth Top view. https://en.wikipedia.org/wiki/CAPSTONE#/media/File:Animation_of_CAPSTONE_around_Earth.gif
+[14] Phoenix7777. Animation of CAPSTONE around the Earth Front view. https://en.wikipedia.org/wiki/CAPSTONE#/media/File:Animation_of_CAPSTONE_around_Earth_-_Front_view.gif
+[15] Wikipedia. Ballistic capture. https://en.wikipedia.org/wiki/Ballistic_capture
